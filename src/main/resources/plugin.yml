@@ -1,0 +1,4 @@
+name: SwooshTransportation
+version: '${project.version}'
+main: me.kaly.st.Cheese
+api-version: '1.20'

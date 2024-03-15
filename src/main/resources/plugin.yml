@@ -1,4 +1,4 @@
-name: SwooshTransportation
+name: NuggetTransportation
 version: '${project.version}'
-main: me.kaly.st.Cheese
+main: nl.bryansuk.nugget.nuggettransportation.NuggetTransportation
 api-version: '1.20'
